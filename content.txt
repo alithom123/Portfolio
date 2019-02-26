@@ -1,3 +1,19 @@
 Github: https://github.com/alithom123
 LinkedIn: https://www.linkedin.com/in/alex-thompson123/
 Facebook: https://www.facebook.com/alithom39
+
+PROJECTS
+BetterCopy:
+Github Repo: https://github.com/alithom123/BetterCopy
+Deployed Version: https://alithom123.github.io/BetterCopy/
+
+mitch:
+Github Repo: https://github.com/alithom123/mitch
+Deployed Version: https://chrome.google.com/webstore/detail/mitch/aofcibpibonbgakkfbfcoimokpgfookh?hl=en
+
+workweekers:
+Github Repo: https://github.com/alithom123/workweekers
+Deployed Version: https://chrome.google.com/webstore/detail/workweekers/glpochabcghfknceaogjonaafllmnfai?hl=en
+
+
+
